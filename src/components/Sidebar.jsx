@@ -3,7 +3,6 @@ import Link from 'next/link'
 import { FaXTwitter } from "react-icons/fa6";
 import { HiHome } from "react-icons/hi";
 
-
 export default function Sidebar() {
   return (
     <div className='flex flex-col gap-4 p-3'>
