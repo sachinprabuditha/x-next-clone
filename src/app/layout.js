@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
           <div>
             <Sidebar />
           </div>
-          <div>{children}</div>
+          <div>{children}</div> 
           <div>
             <News/>
           </div>
